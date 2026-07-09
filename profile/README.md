@@ -35,3 +35,9 @@ This project was developed by a team of final-year BSc. Electronic and Computer 
 *   **Maria Akinyi:** Obstacle Avoidance
 *   **Mohamed Ibrahim:** Object Detection for Product Replenishment
 *   **Osteen Ng’etich:** Web-based Inventory Management System
+
+### 🔧 Hardware Assembly
+The team worked hands-on to integrate the Raspberry Pi, motor drivers, LiDAR, and acrylic chassis.
+![Team assembling the chassis](images/20260319_143909.jpg)
+![Wiring the robot](images/IMG-20260328-WA0020.jpg)
+![Mounting the LiDAR](images/20260319_152547.jpg)
