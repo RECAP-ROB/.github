@@ -43,6 +43,7 @@ To validate our system in a physical space, we constructed a 4m x 3m testing env
 *   **Green Arrow:** The custom retail shelf prototype where items are monitored and restocked.
 *   **Blue Arrow:** The robot's resting place (home base) where it idles and awaits dispatch instructions from the web server.
 *   **Orange Arrow:** The store area where the robot navigates to fetch new items for restocking operations.
+*   **"D" marked plywood:** These serve as dynamic obstacles. To test the robot's real-time obstacle avoidance capabilities, we change their positions after the initial mapping phase to ensure the robot can identify the new placement and successfully navigate around them.
 
 <img width="4624" height="3468" alt="20260608_134715" src="https://github.com/user-attachments/assets/500ec50c-5bb9-40e6-b5db-8dc6c0799991" />
 
